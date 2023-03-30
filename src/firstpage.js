@@ -1,4 +1,4 @@
-import './style.css';
+
 export default function firstpage() {
     
     const content = document.querySelector('#content');

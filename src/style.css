@@ -8,8 +8,8 @@ p
 }
 button{
     background-color: rgba(0, 0, 0, 0.918);
-    
-    border-style: outset;
+   
+    border-style: groove;
     border-radius: 10px;
     width: 120px;
     height: 30px;
@@ -17,7 +17,7 @@ button{
     -webkit-text-fill-color: rgb(160, 153, 153);
 }
 body{
-    
+   
     gap: 10px;
     background:url(./restaurant_image.jpg) no-repeat center center fixed;;
     -webkit-background-size: cover;

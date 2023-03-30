@@ -1,3 +1,4 @@
+
 export default function secondpage() {
     
     const content = document.querySelector('#content');

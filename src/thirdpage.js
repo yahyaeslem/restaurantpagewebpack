@@ -1,3 +1,4 @@
+
 export default function thirdpage() {
     
     const content = document.querySelector('#content');
