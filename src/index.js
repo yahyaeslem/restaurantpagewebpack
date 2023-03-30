@@ -4,7 +4,7 @@ console.log('testasd ');
 import secondpage from './secondpage.js';
 import  firstpage  from './firstpage.js' ;
 import thirdpage  from './thirdpage.js';
-
+import './style.css';
 document.addEventListener('DOMContentLoaded', () => {
     firstpage();
 })

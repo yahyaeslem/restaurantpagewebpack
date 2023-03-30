@@ -1,0 +1,28 @@
+h1{
+    color :rgba(17, 7, 7, 0.966);
+    font-size:70px;
+}
+p 
+{
+    font-size: 25px;
+}
+button{
+    background-color: rgba(0, 0, 0, 0.918);
+    
+    border-style: outset;
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+    font-size: 20px;
+    -webkit-text-fill-color: rgb(160, 153, 153);
+}
+body{
+    
+    gap: 10px;
+    background:url(./restaurant_image.jpg) no-repeat center center fixed;;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+}

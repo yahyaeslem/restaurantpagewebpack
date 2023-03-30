@@ -1,10 +1,12 @@
+import './style.css';
 export default function firstpage() {
     
     const content = document.querySelector('#content');
     content.innerHTML="";
     const restaurantImage = document.createElement('img');
-    restaurantImage.src = 'restaurant-image.jpg';
-    restaurantImage.alt = 'Restaurant Image';
+   
+   
+  
     content.appendChild(restaurantImage);
   
     const headline = document.createElement('h1');
